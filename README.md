@@ -17,6 +17,7 @@ académicas, tareas de seguridad o simplemente para obtener información valiosa
 
 ![WhatsApp Image 2023-10-28 at 2 36 16 PM](https://github.com/CarlosVillena17/DemoDay-RobotInteligente/assets/86505880/962119ab-8090-4c47-ae04-ff33ef6698bd)
 
+![WhatsApp Image 2023-10-28 at 2 36 08 PM](https://github.com/CarlosVillena17/DemoDay-RobotInteligente/assets/86505880/0a27569f-7c30-49bd-b53e-0c77c76f01c3)
 ## Diagrama del carro 
 
 ![diagrama](https://github.com/CarlosVillena17/DemoDay-RobotInteligente/assets/86505880/b173fdf2-13aa-43c9-b073-c74afd1ecbb6)
