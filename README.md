@@ -19,6 +19,6 @@ académicas, tareas de seguridad o simplemente para obtener información valiosa
 
 ## Diagrama del carro 
 
-![descarga (1)](https://github.com/CarlosVillena17/DemoDay-RobotInteligente/assets/86505880/d82b4629-041e-4a9e-aeb3-f8bae3d16a4c)
+![diagrama](https://github.com/CarlosVillena17/DemoDay-RobotInteligente/assets/86505880/b173fdf2-13aa-43c9-b073-c74afd1ecbb6)
 
 ![1342db7c0ddc72a86809cbccc7c9f66a034f0885_2_690x406-removebg-preview](https://github.com/CarlosVillena17/DemoDay-RobotInteligente/assets/86505880/286c109e-bfca-4e74-b55d-e343bd095cef)
