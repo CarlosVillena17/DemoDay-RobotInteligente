@@ -1,3 +1,13 @@
+""" **********************************************************************************************************************************
+* Proyecto      : Robot con Inteligencia Artificial para la Detección de Objetos en la Facultad de Ingeniería de Sistemas 
+* Fecha         : 28 / 09 / 2023
+* Autor         : Carlos Ricardo Villena Cabrejos
+* Descripción   : El robot integra tecnologías avanzadas, como el Internet de las cosas (IoT), la inteligencia artificial (IA) y la minería de datos
+* Ejecuciòn     : Python 
+**************************************************************************************************************************************
+"""
+
+
 import cv2
 import urllib.request
 import numpy as np
@@ -11,9 +21,8 @@ from google.cloud import storage
 import time
 import pandas as pd
 
-# PROGRAMA DE CLASIFICACION DE OBJETOS PARA VIDEO EN DIRECCION IP
 
-url = 'http://192.168.222.24/cam-hi.jpg'
+url = 'ip de mi camara web'
 winName = 'ESP32 CAMERA'
 cv2.namedWindow(winName, cv2.WINDOW_NORMAL)
 cv2.resizeWindow(winName, 1280, 900)  # Ajusta el tamaño de la ventana
