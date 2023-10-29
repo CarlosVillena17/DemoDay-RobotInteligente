@@ -1,3 +1,13 @@
+""" **********************************************************************************************************************************
+* Proyecto      : Robot con Inteligencia Artificial para la Detección de Objetos en la Facultad de Ingeniería de Sistemas 
+* Fecha         : 28 / 09 / 2023
+* Autor         : Carlos Ricardo Villena Cabrejos
+* Descripción   : El robot integra tecnologías avanzadas, como el Internet de las cosas (IoT), la inteligencia artificial (IA) y la minería de datos
+* Ejecuciòn     : Python 
+**************************************************************************************************************************************
+"""
+
+
 import cv2
 import urllib.request
 import numpy as np
