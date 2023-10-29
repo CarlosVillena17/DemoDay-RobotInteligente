@@ -12,11 +12,11 @@ import time
 import pandas as pd
 from google.cloud import bigquery
 
-# PROGRAMA DE CLASIFICACION DE OBJETOS PARA VIDEO EN DIRECCION IP
+
 def main():
     
 
-    url = 'http://192.168.222.24/cam-hi.jpg'
+    url = 'ip de mi camara web'
     winName = 'ESP32 CAMERA'
     cv2.namedWindow(winName, cv2.WINDOW_NORMAL)
     cv2.resizeWindow(winName, 1280, 900)  # Ajusta el tamaño de la ventana
