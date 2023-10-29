@@ -23,3 +23,13 @@ académicas, tareas de seguridad o simplemente para obtener información valiosa
 ![diagrama](https://github.com/CarlosVillena17/DemoDay-RobotInteligente/assets/86505880/b173fdf2-13aa-43c9-b073-c74afd1ecbb6)
 
 ![1342db7c0ddc72a86809cbccc7c9f66a034f0885_2_690x406-removebg-preview](https://github.com/CarlosVillena17/DemoDay-RobotInteligente/assets/86505880/286c109e-bfca-4e74-b55d-e343bd095cef)
+
+## Envío de fotos a Google Cloud Storage
+
+**Captura de imágenes:** Utiliza la cámara web ESP32-CAM para capturar imágenes en tiempo real de los objetos o áreas de interés.
+
+**Procesamiento de imágenes:** Procesa las imágenes según sea necesario para la detección de objetos y otras tareas.
+
+**Google Cloud Storage:** Utiliza la API de Google Cloud Storage para cargar las imágenes procesadas en un bucket específico en tu proyecto de Google Cloud Storage. Puedes usar la biblioteca cliente de Google Cloud Storage o la herramienta `gsutil` para realizar esta acción.
+
+**Almacenamiento y acceso:** Una vez que las imágenes se almacenan en el bucket de Google Cloud Storage, puedes acceder a ellas de manera segura desde cualquier ubicación y compartirlas según sea necesario.
