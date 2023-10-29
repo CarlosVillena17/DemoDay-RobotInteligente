@@ -1,4 +1,4 @@
-# DemoDay-RobotInteligente
+# Robot Inteligente
 ## Descripcion
 Este robot autónomo combina la potencia de la inteligencia artificial con la movilidad de
 un vehículo controlado a distancia. Está equipado con una cámara web ESP32 –
