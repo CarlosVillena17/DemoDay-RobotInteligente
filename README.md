@@ -33,3 +33,7 @@ académicas, tareas de seguridad o simplemente para obtener información valiosa
 **Google Cloud Storage:** Utiliza la API de Google Cloud Storage para cargar las imágenes procesadas en un bucket específico en tu proyecto de Google Cloud Storage. Puedes usar la biblioteca cliente de Google Cloud Storage o la herramienta `gsutil` para realizar esta acción.
 
 **Almacenamiento y acceso:** Una vez que las imágenes se almacenan en el bucket de Google Cloud Storage, puedes acceder a ellas de manera segura desde cualquier ubicación y compartirlas según sea necesario.
+
+![Imagen1](https://github.com/CarlosVillena17/DemoDay-RobotInteligente/assets/86505880/e9835d9a-11cb-4ec5-a9dd-f81795c93a09)
+
+![Imagen2](https://github.com/CarlosVillena17/DemoDay-RobotInteligente/assets/86505880/20d56c8c-8a4f-4be0-ad92-6d450d9bb975)
